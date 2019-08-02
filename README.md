@@ -20,7 +20,17 @@ Hi friends,<br>
             8. Pictures. <br>
             9. Memo. <br>
       </b>
-      </hr>      
+      </hr>  
+      
+      <b> steps to initiate my project :</b><br>
+            1. First clone this project in your laptop or computer. <br>
+            2. Go to here "python_project_created_by_9_applications/python_project_9apps/ ". <br>
+            3. Now run the program os.py in powershell or terminal or command prompt in yor device. <br>
+            4. Like  <i> python os.py </i> . <br>
+            5. Finally you will see my project as shown above picture and then click on any app out of 9 apps. <br>
+       
+       
+       <b>  Thank you guys and have a fun !! </b>
       </body>
       </html>
       
